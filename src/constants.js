@@ -24,6 +24,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 import teamLease from './assets/company_logo/team_lease.png'
 import advi from './assets/company_logo/advi.jpg'
+import mbrdi from './assets/company_logo/mbrdi.jpg'
 
 // Experience Section Logo's
 
@@ -92,6 +93,7 @@ export const SkillsInfo = [
     {
       id: 0,
       img: teamLease,
+      serviceImg:mbrdi ,
       role: "Software Engineer Trainee",
       company: "Team Lease Digital(Mercedez Benz Research and Development of India)",
       date: "September 2024 - January 2025 ",
