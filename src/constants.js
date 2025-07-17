@@ -115,7 +115,7 @@ export const SkillsInfo = [
       img: advi,
       role: "Software Engineer Intern",
       company: "Advi Group Of Companies",
-      date: "Jan 2024 - Apr 2024",
+      date: "Mar 2025 - Jul 2025",
       desc: "Contributed to innovative projects as a intern, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
